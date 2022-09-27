@@ -45,7 +45,7 @@ export const getDb = async () => {
   // Get confirmation of the request.
   const result = await request;
   console.log('connected to db', result.value);
-  return result;
+  return result?.value;
 };
 
 initdb();
