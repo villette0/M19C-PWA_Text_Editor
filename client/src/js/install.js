@@ -1,7 +1,5 @@
 const butInstall = document.getElementById('buttonInstall');
-const newElement = document.createElement("h1");
-newElement.textContent = "Hello World";
-butInstall.append(newElement);
+
 // Logic for installing the PWA
 // TODO: Add an event handler to the `beforeinstallprompt` event
 window.addEventListener('beforeinstallprompt', (event) => {
