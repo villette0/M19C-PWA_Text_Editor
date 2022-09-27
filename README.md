@@ -1,7 +1,7 @@
 # Text Editor  - Persistant Web Applications
 
 ## Application Description
-
+The text editor application is deployed via heroku. It can be used online or installed using the install button to the left or from the browser address bar. The JavaScript files are bundled using webpack plugins which generate a HTML file, service worker, and a manifest file. Content is saved within IndexedDB.
 
 ## Challenge Description
 The challenge was to create a text editor that runs in the browser. The app is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.  Methods are implemented for getting and storing data to an IndexedDB database. A package called idb is used, which is a lightweight wrapper around the IndexedDB API. 
@@ -48,16 +48,21 @@ THEN I should have proper build scripts for a webpack application
 
 ## Tasks Completed
 The Javascript documents include:
-* 
-
+* const variables, methods, functions
+* routes, get/put
+* modules, exports, imports 
+* webpacks
+* comments
 
 ## Languages
 - HTML
+- CSS
 - JavaScript
-
 
 ## Links
 * [Repository](https://github.com/villettec/M19C-PWA_Text_Editor)
+
+* [Deployment](https://jate-text-editor-33.herokuapp.com/)
 
 ## Screenshots
 ![image](./assets/images/readme-screenshot.png)
