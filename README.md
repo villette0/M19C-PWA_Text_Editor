@@ -60,14 +60,9 @@ The Javascript documents include:
 - JavaScript
 
 ## Links
-* [Repository](https://github.com/villettec/M19C-PWA_Text_Editor)
+* [Repository](https://github.com/villette0/M19C-PWA_Text_Editor)
 
 * [Deployment](https://jate-text-editor-33.herokuapp.com/)
 
 ## Screenshots
 ![image](./assets/images/readme-screenshot.png)
-
-## Credit
-Villette Comfort
-
-villette@live.com
